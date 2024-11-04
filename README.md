@@ -79,7 +79,7 @@ Program ini mendemonstrasikan konsep:
 - Format string untuk output
 
 # Latihan 2
-
+![Screenshot 2024-11-04 103419](https://github.com/user-attachments/assets/dc16820b-d2c9-4256-a9cd-9117d5b653b3)
 
 1. **Inisialisasi**
    ```python
