@@ -1,6 +1,5 @@
 # Latihan 1 
-
-Saya akan menjelaskan alur algoritma dari kode tersebut secara terstruktur:
+![Screenshot 2024-11-04 100525](https://github.com/user-attachments/assets/4a5fca5b-834e-48dc-a215-53ca1b403a97)
 
 1. **Inisialisasi**
    - Import fungsi random untuk menghasilkan angka acak
@@ -79,7 +78,8 @@ Program ini mendemonstrasikan konsep:
 - Pencacahan (counter)
 - Format string untuk output
 
-- Saya akan menjelaskan alur algoritma dari kode perhitungan laba tersebut:
+# Latihan 2
+
 
 1. **Inisialisasi**
    ```python
