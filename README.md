@@ -1,5 +1,4 @@
-![Screenshot 2024-10-24 124932](https://github.com/user-attachments/assets/8484a46d-1901-47c4-890f-395391fa0c49)# Latihan 1 
-![Screenshot 2024-11-04 100525](https://github.com/user-attachments/assets/4a5fca5b-834e-48dc-a215-53ca1b403a97)
+# Latihan 1
 
 1. **Inisialisasi**
    - Import fungsi random untuk menghasilkan angka acak
