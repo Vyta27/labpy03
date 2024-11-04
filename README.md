@@ -1,5 +1,4 @@
 # Latihan 1 
-![Screenshot 2024-10-31 101800](https://github.com/user-attachments/assets/550976b2-32d3-42ec-8019-df5fc421b976)
 
 Saya akan menjelaskan alur algoritma dari kode tersebut secara terstruktur:
 
