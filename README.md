@@ -63,11 +63,11 @@ End
    - User memasukkan N = 5
    - Program menghasilkan 5 angka random < 0.5:
      ```
-     data ke: 1 => 0.22422725915012398
-     data ke: 2 => 0.08143383880445236
-     data ke: 3 => 0.29455614142741193
-     data ke: 4 => 0.12537763804880175
-     data ke: 5 => 0.46041201475820446
+     data ke: 1 => 0.3878055510107772
+     data ke: 2 => 0.35631985700686897
+     data ke: 3 => 0.005623765857249441
+     data ke: 4 => 0.462654856394642
+     data ke: 5 => 0.2936462805021509
      ```
 
 4. Setelah mendapatkan 5 angka yang memenuhi syarat, program selesai dan mencetak "Selesai"
